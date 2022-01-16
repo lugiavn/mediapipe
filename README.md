@@ -1,3 +1,5 @@
+Fork at v0.8.6 to run https://google.github.io/mediapipe/solutions/youtube_8m.html
+
 ---
 layout: default
 title: Home
@@ -7,9 +9,6 @@ nav_order: 1
 ![MediaPipe](docs/images/mediapipe_small.png)
 
 --------------------------------------------------------------------------------
-
-
-v0.8.6 fork
 
 
 ## Live ML anywhere
