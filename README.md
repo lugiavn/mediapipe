@@ -8,6 +8,10 @@ nav_order: 1
 
 --------------------------------------------------------------------------------
 
+
+v0.8.6 fork
+
+
 ## Live ML anywhere
 
 [MediaPipe](https://google.github.io/mediapipe/) offers cross-platform, customizable
